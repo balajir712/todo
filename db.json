@@ -1,5 +1,7 @@
 {
-    {id:1, name:'First task', category:'Personal', completed:false},
-    {id:2, name:'Second task', category:'Personal', completed:false},
-    {id:2, name:'Third task', category:'Work', completed:true},    
+    "tasks" : [
+        {id:1, name:'First task', category:'Personal', completed:false},
+        {id:2, name:'Second task', category:'Personal', completed:false},
+        {id:2, name:'Third task', category:'Work', completed:true},    
+    ]
 }
